@@ -59,7 +59,7 @@ const Projects = () => {
         'MongoDB',
         'Express.js'
       ],
-      link: '#'
+      link: 'https://food-del-frontend-o791.onrender.com/'
     },
     {
       id: 3,
