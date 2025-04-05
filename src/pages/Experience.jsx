@@ -9,7 +9,7 @@ const Experience = () => {
   const experiencesStage = [
     {
       id: 1,
-      startDate: '1 Feb 2024',
+      startDate: '1 Nov 2023',
       endDate: 'Present',
       companyName: 'Suyotech  Solutions, Kolhapur',
       jobRole: 'Frontend Developer',
